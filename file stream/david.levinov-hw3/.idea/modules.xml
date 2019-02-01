@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hw3-files.iml" filepath="$PROJECT_DIR$/.idea/modules/hw3-files.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hw3-files_main.iml" filepath="$PROJECT_DIR$/.idea/modules/hw3-files_main.iml" group="hw3-files" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hw3-files_test.iml" filepath="$PROJECT_DIR$/.idea/modules/hw3-files_test.iml" group="hw3-files" />
+    </modules>
+  </component>
+</project>
